@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    font-family: 'Francois One', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     font-stretch: normal;
     text-align: center;
     text-decoration: underline;
@@ -81,9 +81,10 @@ aside {
 
 button{
 background-color: rgb(255, 236, 127);
-font-size: 15px;
+font-size: 18px;
+font-weight: bold;
 margin-bottom: 5px;
-font-family:'Oswald', sans-serif;
+font-family: 'Courier New', Courier, monospace;
 }
 
 
@@ -146,7 +147,7 @@ img {
     font-family: 'Courier New', Courier, monospace;
     text-decoration: underline;
     padding-right: 1px;
-    padding-left: 1px;
+    padding-left: 2px;
     background-color: rgba(226, 225, 213, 0.7);
     width: 275px;
 }
@@ -164,7 +165,7 @@ img {
     font-family: 'Courier New', Courier, monospace;
     text-decoration: underline;
     padding-right: 1px;
-    padding-left: 1px;
+    padding-left: 3px;
     background-color: rgba(226, 225, 213, 0.7);
     width:220px;
 }
@@ -206,7 +207,7 @@ display: inline-block;
     font-family: 'Courier New', Courier, monospace;
     text-decoration: underline;
     padding-right: 1px;
-    padding-left: 1px;
+    padding-left: 3px;
     background-color: rgba(226, 225, 213, 0.7);
     width: 435px;
 }
