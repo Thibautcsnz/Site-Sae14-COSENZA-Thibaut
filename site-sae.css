@@ -50,6 +50,7 @@ p {
 
 a {
     color: rgb(25, 0, 255);
+    font-family:'Oswald', sans-serif;
 }
 
 .titre {
@@ -82,6 +83,7 @@ button{
 background-color: rgb(255, 236, 127);
 font-size: 15px;
 margin-bottom: 5px;
+font-family:'Oswald', sans-serif;
 }
 
 

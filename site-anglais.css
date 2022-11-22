@@ -25,13 +25,14 @@ h1 {
 
 h2 {
     color: rgb(0, 0, 0);
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Orbitron', sans-serif;
     text-decoration: underline;
     background-color: aqua;
     box-sizing: border-box;
     border: 1px solid black;
     display: inline-block;
     box-shadow: 5px 5px;
+    padding: 2px;
 }
 
 h3 {
@@ -130,7 +131,7 @@ img {
 
 .passions {
     color: rgb(0, 0, 0);
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Orbitron', sans-serif;
     text-decoration: underline;
     padding-right: 1px;
     padding-left: 5px;
@@ -149,7 +150,7 @@ footer {
     padding: 5px;
     margin-top: 2%;
     text-align: center;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Orbitron', sans-serif;
     font-size: 20px;
     color: rgb(255, 255, 255);
 }
