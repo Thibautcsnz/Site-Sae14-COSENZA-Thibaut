@@ -1,0 +1,150 @@
+body {
+    background-image: url(https://cdn.dribbble.com/users/1083431/screenshots/3269881/gif.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-size: x-large;
+    font-family: 'Josefin Sans', sans-serif;
+    font-stretch: normal;
+    text-align: center;
+    text-decoration: underline;
+    background-color: rgba(112, 220, 254, 0.534);
+    padding: 1%;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    background-color: aqua;
+    box-sizing: border-box;
+    border: 1px solid black;
+    display: inline-block;
+    box-shadow: 5px 5px;
+}
+
+h3 {
+    margin-top: 5px;
+    font-size: 30px;
+}
+
+
+p {
+    border-color: black;
+    border-style: solid;
+    padding: 5px;
+    text-align: center;
+    background-color: rgba(226, 225, 213, 0.7);
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+a {
+    color: rgb(25, 0, 255);
+}
+
+.titre {
+    background-color: rgb(255, 255, 255);
+    padding-left: 2px;
+}
+
+nav a {
+    box-sizing: border-box;
+    border: 1px solid black;
+    display: inline-block;
+    box-shadow: 3px 3px;
+    width: calc(100% / 4 - 4px);
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+aside {
+    background-color: aqua;
+    width: 8%;
+    height: 20%;
+    flex-basis: 20%;
+    display: block;
+    text-align:center;
+    font-size: large;
+}
+
+
+button{
+background-color: rgb(255, 236, 127);
+font-size: 15px;
+margin-bottom: 5px;
+}
+
+
+.youtube {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkred;
+}
+
+.twitch {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(134, 16, 134);
+
+}
+
+.facebook {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(39, 18, 230);
+}
+
+.instagram {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(209, 34, 180);
+
+}
+
+section {
+    background-color: rgba(226, 225, 213, 0.6);
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 0.5%
+}
+
+div {
+    display: flex;
+}
+
+img {
+    height: 5vw;
+}
+
+.passions {
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    padding-right: 1px;
+    padding-left: 1px;
+    background-color: rgba(226, 225, 213, 0.7);
+    width:400px;
+}
+.p1 {
+    flex-basis: calc(100% / 3 - 10px);
+    box-sizing: border-box;
+    margin: 5px;
+}
+
+
+footer {
+    background-color: rgba(112, 220, 254, 0.534);
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: aliceblue;
+}
