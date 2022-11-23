@@ -19,7 +19,6 @@ h1 {
     margin-block-end: 0.67em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    font-weight: bold;
     color: rgb(255, 255, 255);
 }
 
@@ -136,9 +135,9 @@ img {
     font-family: 'Orbitron', sans-serif;
     text-decoration: underline;
     padding-right: 1px;
-    padding-left: 5px;
     background-color: rgba(226, 225, 213, 0.7);
     width:400px;
+    text-align: center;
 }
 .p1 {
     flex-basis: calc(100% / 3 - 10px);
@@ -146,9 +145,25 @@ img {
     margin: 5px;
 }
 
+.tennis{
+    color: rgb(0, 0, 0);
+    font-family: 'Orbitron', sans-serif;
+    text-decoration: underline;
+    padding-right: 1px;
+    padding-left: 1px;
+    background-color: rgba(226, 225, 213, 0.7);
+    width:175px;
+    text-align: center;
+}
+
+.p2 {
+    flex-basis: calc(100% / 3 - 10px);
+    box-sizing: border-box;
+    margin: 5px;
+}
 
 footer {
-    background-color: rgba(112, 220, 254, 0.534);
+    background-color: rgba(97, 217, 253, 0.534);
     padding: 5px;
     margin-top: 2%;
     text-align: center;
