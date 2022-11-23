@@ -119,16 +119,14 @@ section {
     margin-right: 10%;
     padding-left: 2%;
     padding-right: 2%;
-    margin-top: 0.5%
+    margin-top: 0.5%;
+    padding-top: 1%;
 }
 
 div {
     display: inline-block;
 }
 
-img {
-    height: 5vw;
-}
 
 .passions {
     color: rgb(0, 0, 0);
@@ -139,8 +137,8 @@ img {
     width:400px;
     text-align: center;
 }
+
 .p1 {
-    flex-basis: calc(100% / 3 - 10px);
     box-sizing: border-box;
     margin: 5px;
 }
@@ -157,10 +155,45 @@ img {
 }
 
 .p2 {
-    flex-basis: calc(100% / 3 - 10px);
     box-sizing: border-box;
     margin: 5px;
 }
+
+.réseaux{
+    color: rgb(0, 0, 0);
+    font-family: 'Orbitron', sans-serif;
+    text-decoration: underline;
+    padding-right: 1px;
+    background-color: rgba(226, 225, 213, 0.7);
+    width:320px;
+    text-align: center;
+}
+
+.p3{
+    box-sizing: border-box;
+    margin: 5px;
+}
+
+.ytb{
+    border-color: black;
+    border-style: solid;
+    border-radius: 7px;
+    margin: 1%;
+    box-shadow: 2px 1px;
+    height: 5vw;
+}
+
+.twit{
+    border-color: black;
+    border-style: solid;
+    border-radius: 7px;
+    padding: 1%;
+    margin: 1%;
+    box-shadow: 2px 1px;
+    background-color: rgb(255, 255, 255);
+    height: 4vw;
+}
+
 
 footer {
     background-color: rgba(97, 217, 253, 0.534);
