@@ -11,7 +11,7 @@ h1 {
     font-stretch: normal;
     text-align: center;
     text-decoration: underline;
-    background-color: rgba(112, 220, 254, 0.534);
+    background-color: rgba(112, 220, 254, 0.6);
     padding: 1%;
     display: block;
     font-size: 2em;
@@ -46,7 +46,7 @@ p {
     border-radius: 7px;
     padding: 5px;
     text-align: center;
-    background-color: rgba(226, 225, 213, 0.7);
+    background-color: rgba(226, 225, 213, 0.8);
     font-size: 20px;
     font-family: 'Oswald', sans-serif;
     box-shadow: 2px 1px;
@@ -92,23 +92,23 @@ font-weight: bold;
 
 
 .youtube {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Orbitron', sans-serif;
     color: darkred;
 }
 
 .twitch {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Orbitron', sans-serif;
     color: rgb(134, 16, 134);
 
 }
 
 .facebook {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Orbitron', sans-serif;
     color: rgb(39, 18, 230);
 }
 
 .instagram {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Orbitron', sans-serif;
     color: rgb(209, 34, 180);
 
 }
@@ -240,8 +240,33 @@ div {
 
 }
 
+.Anglais{
+    color: rgb(0, 0, 0);
+    font-family: 'Orbitron', sans-serif;
+    text-decoration: underline;
+    background-color: rgba(226, 225, 213, 0.7);
+    width:320px;
+    text-align: center;
+}
+
+.flag{
+    border-color: black;
+    border-style: solid;
+    border-radius: 7px;
+    margin: 1%;
+    box-shadow: 2px 1px;
+    height: 2.5vw;
+    background-color: rgb(255, 255, 255);
+    float:left;
+}
+
+.p5{
+    box-sizing: border-box;
+    margin: 5px;
+}
+
 footer {
-    background-color: rgba(97, 217, 253, 0.534);
+    background-color: rgba(97, 217, 253, 0.6);
     padding: 5px;
     margin-top: 2%;
     text-align: center;

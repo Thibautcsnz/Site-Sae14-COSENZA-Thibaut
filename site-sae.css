@@ -42,7 +42,7 @@ p {
     border-radius: 7px;
     padding: 5px;
     text-align: center;
-    background-color: rgba(226, 225, 213, 0.7);
+    background-color: rgba(226, 225, 213, 0.8);
     font-size: 20px;
     font-family: 'Oswald', sans-serif;
     box-shadow: 2px 1px;
@@ -125,6 +125,13 @@ div {
 
 img {
     height: 5vw;
+    border-color: black;
+    border-style: solid;
+    border-radius: 7px;
+    padding: 1%;
+    margin: 1%;
+    box-shadow: 2px 1px;
+    background-color: rgb(255, 255, 255);
 }
 
 .qui {
@@ -165,7 +172,7 @@ img {
     font-family: 'Courier New', Courier, monospace;
     text-decoration: underline;
     padding-right: 1px;
-    padding-left: 3px;
+    padding-left: 4px;
     background-color: rgba(226, 225, 213, 0.7);
     width:220px;
 }
