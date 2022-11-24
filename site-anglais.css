@@ -154,6 +154,15 @@ div {
     text-align: center;
 }
 
+.tc2t{
+    border-color: black;
+    border-style: solid;
+    border-radius: 7px;
+    margin: 1%;
+    box-shadow: 2px 1px;
+    height: 7vw;
+}
+
 .p2 {
     box-sizing: border-box;
     margin: 5px;
@@ -194,6 +203,42 @@ div {
     height: 4vw;
 }
 
+.montage{
+    color: rgb(0, 0, 0);
+    font-family: 'Orbitron', sans-serif;
+    text-decoration: underline;
+    background-color: rgba(226, 225, 213, 0.7);
+    width:320px;
+    text-align: center;
+}
+
+.p4{
+    box-sizing: border-box;
+    margin: 5px;
+}
+
+
+.PC1{
+    border-color: black;
+    border-style: solid;
+    border-radius: 7px;
+    margin: 1%;
+    box-shadow: 2px 1px;
+    height: 10vw;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.PC2{
+    border-color: black;
+    border-style: solid;
+    border-radius: 7px;
+    margin: 1%;
+    box-shadow: 2px 1px;
+    height: 10vw;
+    background-color: rgb(255, 255, 255);
+
+}
 
 footer {
     background-color: rgba(97, 217, 253, 0.534);
