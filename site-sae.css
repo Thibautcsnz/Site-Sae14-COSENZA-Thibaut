@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-stretch: normal;
     text-align: center;
     text-decoration: underline;
@@ -224,6 +224,6 @@ footer {
     margin-top: 2%;
     background-color: rgba(230, 144, 16, 0.9);
     text-align: center;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
 }
